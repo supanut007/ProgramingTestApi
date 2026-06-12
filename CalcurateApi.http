@@ -1,0 +1,6 @@
+@CalcurateApi_HostAddress = http://localhost:5182
+
+GET {{CalcurateApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
